@@ -8,6 +8,6 @@ A prototype (created for academic purposes) for the creation in python of a syst
 # Design of the project
 <img src="/documentation/ANN.PNG">
 <p float="left">
-    <img src="/documentation/class.png" width="410">
-    <img src="/documentation/usecase.png" width="410">
+    <img src="/documentation/class2.png" width="410">
+    <img src="/documentation/usecase2.png" width="410">
 </p>
